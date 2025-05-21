@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Olá amigos 👋<br>I'm Gabriel Bitencourt Menegali Nandi :D)<br>
+<h1 align="center">Olá amigos 👋<br>I'm Gabriel Bitencourt Menegali Nandi :D<br>
 <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/master/images/mario.gif" />
 <br>
 </h1>
