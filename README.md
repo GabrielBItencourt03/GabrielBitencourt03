@@ -1,10 +1,11 @@
 <h1 align="center">Oi, pessoal 👋<br>Eu sou o Gabriel Bitencourt Menegali Nandi 😄</h1>
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xepw8w8rJ6h4V9a/giphy.gif" width="400"/>
+  <!-- Novo GIF estilo Lo-Fi -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/gabrielbitencourt03/gabrielbitencourt03/master/images/mario.gif" width="200"/>
 </p>
