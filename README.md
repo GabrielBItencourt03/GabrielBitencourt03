@@ -8,9 +8,9 @@
 
 ---
 
-## 📍 Sobre mim
+## 📍 Its me
 
-- 🇧🇷 Moro em Santa Catarina - Brasil  
+- 🇧🇷 I live in Santa Catarina - Brasil  
 - 📧 Contato: [gabrielnandi003@gmail.com](mailto:gabrielnandi003@gmail.com)  
 - 🚀 Estudando e começando minha jornada em programação
 
