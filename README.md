@@ -1,12 +1,12 @@
 <h1 align="center">Oi, pessoal 👋<br>Eu sou o Gabriel Bitencourt Menegali Nandi 😄</h1>
 
-![Mario GIF](https://raw.githubusercontent.com/ahmadazimi/mario-run/main/mario-run.gif)
+
 
 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielbitencourt03/gabrielbitencourt03/master/images/mario.gif" width="200"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F748582769300240516%2F&psig=AOvVaw0ZA6zA-zOYzOcfnz0Gl30I&ust=1747959034732000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjk84HltY0DFQAAAAAdAAAAABAE" width="200"/>
 </p>
 
 ---
