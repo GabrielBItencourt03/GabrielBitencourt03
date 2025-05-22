@@ -1,5 +1,8 @@
 <h1 align="center">Oi, pessoal 👋<br>Eu sou o Gabriel Bitencourt Menegali Nandi 😄</h1>
-https://raw.githubusercontent.com/ahmadazimi/mario-run/main/mario-run.gif
+
+![Mario GIF](https://raw.githubusercontent.com/ahmadazimi/mario-run/main/mario-run.gif)
+
+
 </p>
 
 <p align="center">
