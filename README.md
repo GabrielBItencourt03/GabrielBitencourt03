@@ -1,12 +1,8 @@
 <h1 align="center">Oi, pessoal 👋<br>Eu sou o Gabriel Bitencourt Menegali Nandi 😄</h1>
 
-
 <p align="center">
-  <!-- GIF Lo-Fi Programador -->
-  <img src="![Uploading bd1b04ae480a107f6335219c6a561f6d.gif…]()
- "/>
+  <img src="./assets/cyberpunk.gif" alt="Cyberpunk GIF">
 </p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gabrielbitencourt03/gabrielbitencourt03/master/images/mario.gif" width="200"/>
