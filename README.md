@@ -2,9 +2,10 @@
 
 
 <p align="center">
-  <!-- Novo GIF estilo Lo-Fi -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <!-- GIF Lo-Fi Programador -->
+  <img src="https://media.giphy.com/media/Xospxw0VdVgZs/giphy.gif" width="400"/>
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gabrielbitencourt03/gabrielbitencourt03/master/images/mario.gif" width="200"/>
