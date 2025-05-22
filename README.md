@@ -8,7 +8,7 @@
 
 ---
 
-## 📍 Its me
+## 📍 It's me
 
 - 🇧🇷 I live in Santa Catarina - Brasil  
 - 📧 Contato: [gabrielnandi003@gmail.com](mailto:gabrielnandi003@gmail.com)  
