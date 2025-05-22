@@ -1,7 +1,5 @@
 <h1 align="center">Oi, pessoal 👋<br>Eu sou o Gabriel Bitencourt Menegali Nandi 😄</h1>
-
-![GIF](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/images/cyberpunk.gif)
-
+https://raw.githubusercontent.com/ahmadazimi/mario-run/main/mario-run.gif
 </p>
 
 <p align="center">
