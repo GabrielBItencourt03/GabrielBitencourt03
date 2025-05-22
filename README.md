@@ -1,4 +1,4 @@
-<h1 align="center">Oi, pessoal 👋<br>Eu sou o Gabriel Bitencourt Menegali Nandi 😄</h1>
+<h1 align="center">Hi, guys 👋<br>Im Gabriel Bitencourt Menegali Nandi 😄</h1>
 
 </p>
 
