@@ -1,11 +1,9 @@
 <h1 align="center">Oi, pessoal 👋<br>Eu sou o Gabriel Bitencourt Menegali Nandi 😄</h1>
 
-├── README.md
-├── cyberpunk.gif
-assets/
-├── cyberpunk.gif
-<p align="center">
-  <img src="![Cyberpunk](./assets/cyberpunk.gif)"
+cyberpunk.gif
+
+![Cyberpunk](./cyberpunk.gif)
+
 
 </p>
 
