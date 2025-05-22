@@ -1,9 +1,6 @@
 <h1 align="center">Oi, pessoal 👋<br>Eu sou o Gabriel Bitencourt Menegali Nandi 😄</h1>
 
-cyberpunk.gif
-
-![Cyberpunk](./cyberpunk.gif)
-
+![GIF](./cyberpunk.gif)
 
 </p>
 
