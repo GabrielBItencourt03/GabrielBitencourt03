@@ -3,8 +3,8 @@
 
 <p align="center">
   <!-- GIF Lo-Fi Programador -->
-  <img src="![bd1b04ae480a107f6335219c6a561f6d](https://github.com/user-attachments/assets/27d18d02-c491-445d-9807-6889e8c11900)
-"/>
+  <img src=" ![bd1b04ae480a107f6335219c6a561f6d](https://github.com/user-attachments/assets/87160fa4-8564-491d-9c98-6dcf08f48e7e)
+ "/>
 </p>
 
 
